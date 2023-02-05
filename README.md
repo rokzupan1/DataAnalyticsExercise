@@ -1,8 +1,8 @@
 # FullDataAnalysisExercise
 
-*[SQL code](https://github.com/rokzupan1/fulldataanalysisexercise/blob/main/SQLQuery2.sql)
-*[Excel file](https://github.com/rokzupan1/fulldataanalysisexercise/blob/main/ItemsSalesList.xlsx)
-*[Tableau Dashboard](https://public.tableau.com/shared/S5FRPY85N?:display_count=n&:origin=viz_share_link)
+* [SQL code](https://github.com/rokzupan1/fulldataanalysisexercise/blob/main/SQLQuery2.sql)
+* [Excel file](https://github.com/rokzupan1/fulldataanalysisexercise/blob/main/ItemsSalesList.xlsx)
+* [Tableau Dashboard](https://public.tableau.com/shared/S5FRPY85N?:display_count=n&:origin=viz_share_link)
 
 Following youtube video: https://www.youtube.com/watch?v=1pHYKdyRvrw&list=WL&index=6
 I decided to create data analysis. The work is done in SQL, Excel, Tableau.
