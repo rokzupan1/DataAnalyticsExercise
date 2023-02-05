@@ -1,4 +1,4 @@
-# Fulldataanalysisexercise
+# FullDataAnalysisExercise
 Following youtube video: https://www.youtube.com/watch?v=1pHYKdyRvrw&list=WL&index=6
 I decided to create data analysis. The work will be done in SQL, Excel, Tableau.
 The data was found in the description of the youtube video.
