@@ -1,4 +1,5 @@
-# FullDataAnalysisExercise
+# DataAnalyticsExercise
+## FullDataAnalysisExercise
 
 * [SQL code](https://github.com/rokzupan1/fulldataanalysisexercise/blob/main/SQLQuery2.sql)
 * [Excel file](https://github.com/rokzupan1/fulldataanalysisexercise/blob/main/ItemsSalesList.xlsx)
@@ -40,3 +41,33 @@ no problem and I completed them with Excel.
 Then I connected my table in Excel with Tableau Public and created interactive dashboard
 with graphs and filters/slicers. I saved the file in cloud and it is accessible for
 everyone. 
+
+## SQLforDataAnalysts
+* [SQL Code]()
+* [UNION vs. UNION ALL]()
+* [Database]()
+Following the youtube video: https://www.youtube.com/watch?v=gwp3dJUsy5g&list=WL&index=7
+I practize some basic SQL functions and learn about some new functions.
+I used DBeaver, a SQL client software application and a database administration tool.
+I learned about the difference between UNION and UNION ALL. I also refreshed my memory
+on JOINS, LIKE, BETWEEN, IN. I also learned new functions: OVER & PARTITION BY, RANK,
+ROW_NUMBER, LAG, LEAD.
+
+OVER and PARTITION BY are used in window functions, which are a way to perform a calculation 
+across a set of rows that are related to the current row. The PARTITION BY clause is used to 
+specify the columns to divide the data into partitions and OVER clause is used to define the 
+window frame over which the calculation is performed.
+
+RANK, ROW_NUMBER are types of ranking functions that can be used to assign a unique number 
+to each row within a result set, partitioned by one or more columns. ROW_NUMBER assigns a 
+unique incremental number to each row, while RANK may assign the same rank to multiple rows 
+if there is a tie in the values of the columns specified in the ORDER BY clause.
+
+LAG and LEAD are functions that allow you to access the values of a row within a specific 
+offset from the current row, relative to the order specified in the ORDER BY clause. LAG 
+returns the value of the row that is n rows before the current row, and LEAD returns the 
+value of the row that is n rows after the current row.
+
+For example, you can use the ROW_NUMBER function to number the rows of a result set, the 
+LAG function to compare the value of the current row with the previous row, and the LEAD 
+function to compare the value of the current row with the next row.
