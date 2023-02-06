@@ -46,6 +46,7 @@ everyone.
 * [SQL Code]()
 * [UNION vs. UNION ALL]()
 * [Database]()
+
 Following the youtube video: https://www.youtube.com/watch?v=gwp3dJUsy5g&list=WL&index=7
 I practize some basic SQL functions and learn about some new functions.
 I used DBeaver, a SQL client software application and a database administration tool.
