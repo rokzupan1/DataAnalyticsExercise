@@ -43,9 +43,9 @@ with graphs and filters/slicers. I saved the file in cloud and it is accessible 
 everyone. 
 
 ## SQLforDataAnalysts
-* [SQL Code]()
-* [UNION vs. UNION ALL]()
-* [Database]()
+* [SQL Code](https://github.com/rokzupan1/DataAnalyticsExercise/blob/main/SQLforDataAnalyst.sql)
+* [UNION vs. UNION ALL](https://github.com/rokzupan1/DataAnalyticsExercise/blob/main/SQLite%20Test.db)
+* [Database](https://github.com/rokzupan1/DataAnalyticsExercise/blob/main/UnionVsUnionAll.PNG)
 
 Following the youtube video: https://www.youtube.com/watch?v=gwp3dJUsy5g&list=WL&index=7
 I practize some basic SQL functions and learn about some new functions.
