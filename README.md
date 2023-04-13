@@ -5,6 +5,8 @@ a dashboard HR Analytics Dashboard.
 
 * Tableau Dashboard: [Click Here](https://public.tableau.com/views/HRAnalyticsDashboard_16814032423450/HRANALYTICSDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+I improved my knowledge of calculated fields, filters, different chart types and create a parameter Bin Size where I can choose the different age bin in the
+No. of Employees by Age Group.
 
 ## FullDataAnalysisExercise
 
