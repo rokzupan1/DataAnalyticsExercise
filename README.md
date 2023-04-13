@@ -1,4 +1,11 @@
 # DataAnalyticsExercise
+## Tableau Dashboard
+Following this youtube video: https://www.youtube.com/watch?v=oAIubTqg-Kw&t=8s and this youtube video: https://www.youtube.com/watch?v=oTyCZVnNVZA I created
+a dashboard HR Analytics Dashboard.
+
+* Tableau Dashboard: [Click Here](https://public.tableau.com/views/HRAnalyticsDashboard_16814032423450/HRANALYTICSDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
 ## FullDataAnalysisExercise
 
 * [SQL code](https://github.com/rokzupan1/fulldataanalysisexercise/blob/main/SQLQuery2.sql)
@@ -72,3 +79,4 @@ value of the row that is n rows after the current row.
 For example, you can use the ROW_NUMBER function to number the rows of a result set, the 
 LAG function to compare the value of the current row with the previous row, and the LEAD 
 function to compare the value of the current row with the next row.
+
