@@ -8,6 +8,12 @@ a dashboard HR Analytics Dashboard.
 I improved my knowledge of calculated fields, filters, different chart types and create a parameter Bin Size where I can choose the different age bin in the
 No. of Employees by Age Group.
 
+## Water Quality Check
+
+* [Code](https://github.com/rokzupan1/data-analytics-exercise/blob/main/water_quality_check.ipynb)
+* [Data](https://github.com/rokzupan1/data-analytics-exercise/blob/main/water_potability.csv)
+* [DataMissing](https://github.com/rokzupan1/data-analytics-exercise/blob/main/missing_rows.csv)
+
 ## FullDataAnalysisExercise
 
 * [SQL code](https://github.com/rokzupan1/fulldataanalysisexercise/blob/main/SQLQuery2.sql)
