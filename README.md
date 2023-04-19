@@ -1,6 +1,8 @@
 # DataAnalyticsExercise
 ## Tableau Dashboard
+Following this video: https://www.youtube.com/watch?v=NoppQVdd8U8, https://www.youtube.com/watch?v=JEdyVHc-bZk, https://www.youtube.com/watch?v=8_eVFXUGebA&t=4s I created a Sales Dashboard. 
 
+* Tableau Dashboard: [Click Here](www.tableau.com)
 
 ## Tableau Dashboard
 Following this youtube video: https://www.youtube.com/watch?v=oAIubTqg-Kw&t=8s and this youtube video: https://www.youtube.com/watch?v=oTyCZVnNVZA I created
