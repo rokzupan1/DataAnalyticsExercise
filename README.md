@@ -1,6 +1,6 @@
 # DataAnalyticsExercise
 ## Tableau Dashboard
-Following this video: https://www.youtube.com/watch?v=NoppQVdd8U8, https://www.youtube.com/watch?v=JEdyVHc-bZk, https://www.youtube.com/watch?v=8_eVFXUGebA&t=4s I created a Sales Dashboard. In the first video we created some calculated fiels that allowed us to create KPIs and Sparkline graphs for Sales, Profit and Qty.
+Following this video: https://www.youtube.com/watch?v=NoppQVdd8U8, https://www.youtube.com/watch?v=JEdyVHc-bZk, https://www.youtube.com/watch?v=8_eVFXUGebA&t=4s I created a Sales Dashboard. In the first video we created some calculated fiels that allowed us to create KPIs and Sparkline graphs for Sales, Profit and Qty. Following the second video of the tutorial we created legend for KPIs, we then created a INNER JOIN with hexmap data and created 3 map charts.
 
 * Tableau Dashboard: [Click Here](https://public.tableau.com/views/SalesDashboard_16820939723440/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
